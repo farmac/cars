@@ -1,7 +1,7 @@
 var cacheName = 'cars-cache';
 var filesToCache = [
-  '/',
-  '/index.html'
+  './',
+  './index.html'
 ];
 
 self.addEventListener('install', function(e) {
