@@ -2,7 +2,7 @@ var cacheName = 'cars-pwa';
 var filesToCache = [
   '/',
   '/index.html',
-  '/js/main.js'
+  '/main.js'
 ];
 
 self.addEventListener('install', function(e) {
